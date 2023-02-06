@@ -2,7 +2,7 @@
 Library       SeleniumLibrary
 
 *** Variables ***
-${BROWSER}                 Edge
+${BROWSER}                 chrome
 ${URL}                     https://magento.softwaretestingboard.com/
 ${Menu_Men}                //a[@id='ui-id-5']
 ${HEADER_Men}              //span[@class='base']

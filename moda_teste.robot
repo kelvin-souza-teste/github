@@ -1,6 +1,6 @@
 *** Settings ***
 Documentation        Essa suite testa o site da magento.softwaretestingboard.com
-Resource             moda_resouser.robot
+Resource             moda.resource
 Test Setup           Abrir o navegador
 Test Teardown        Fechar o navegador
 
